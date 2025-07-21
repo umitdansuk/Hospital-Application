@@ -18,7 +18,7 @@ temel hastane işlevlerini içermektedir.
 - **MySQL** - Veritabanı yönetim sistemi
 - **Faker.js** - Test verisi oluşturma
 
-## 📊 Veritabanı Yapısı
+## 📊 Veritabanı Yapısı 
 
 ### Tablolar
 
