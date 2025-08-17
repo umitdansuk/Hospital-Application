@@ -57,7 +57,7 @@ temel hastane işlevlerini içermektedir.
 - reportContent (TEXT)
 - doctor_id (INT, Foreign Key)
 - patient_id (INT, Foreign Key)
-```
+``` 
 
 ## 🚀 Kurulum ve Çalıştırma
 
