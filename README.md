@@ -5,7 +5,7 @@
 Bu proje, doktor ve hasta yönetimi için geliştirilmiş kapsamlı bir hastane yönetim sistemidir. Sistem, randevu yönetimi, hasta kayıtları, doktor bilgileri ve tıbbi raporlar gibi 
 temel hastane işlevlerini içermektedir.
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Kullanılan Teknolojiler 
 
 ### Frontend
 - **HTML5** - Web sayfası yapısı
