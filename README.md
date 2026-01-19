@@ -17,7 +17,7 @@ temel hastane işlevlerini içermektedir.
 - **Express.js** - Web sunucusu ve API geliştirme 
 - **MySQL** - Veritabanı yönetim sistemi
 - **Faker.js** - Test verisi oluşturma 
-
+ 
 ## 📊 Veritabanı Yapısı 
 
 ### Tablolar
