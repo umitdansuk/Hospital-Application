@@ -12,7 +12,7 @@ temel hastane işlevlerini içermektedir.
 - **CSS3** - Stil ve tasarım
 - **JavaScript** - Kullanıcı etkileşimleri ve dinamik içerik
 
-### Backend
+### Backend 
 - **Node.js** - Sunucu tarafı işlemleri
 - **Express.js** - Web sunucusu ve API geliştirme  
 - **MySQL** - Veritabanı yönetim sistemi
