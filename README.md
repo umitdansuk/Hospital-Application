@@ -13,7 +13,7 @@ temel hastane işlevlerini içermektedir.
 - **JavaScript** - Kullanıcı etkileşimleri ve dinamik içerik
 
 ### Backend 
-- **Node.js** - Sunucu tarafı işlemleri
+- **Node.js** - Sunucu tarafı işlemleri 
 - **Express.js** - Web sunucusu ve API geliştirme  
 - **MySQL** - Veritabanı yönetim sistemi
 - **Faker.js** - Test verisi oluşturma 
