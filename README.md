@@ -45,7 +45,7 @@ temel hastane işlevlerini içermektedir.
 ```sql
 - id (INT, Primary Key, AUTO_INCREMENT)
 - appointmentDate (DATE)
-- appointmentTime (TIME)
+- appointmentTime (TIME) 
 - doctor_id (INT, Foreign Key)
 - patient_id (INT, Foreign Key)
 ```
