@@ -8,7 +8,7 @@ temel hastane işlevlerini içermektedir.
 ## 🛠️ Kullanılan Teknolojiler 
 
 ### Frontend
-- **HTML5** - Web sayfası yapısı
+- **HTML5** - Web sayfası yapısı 
 - **CSS3** - Stil ve tasarım
 - **JavaScript** - Kullanıcı etkileşimleri ve dinamik içerik
 
