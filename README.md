@@ -10,7 +10,7 @@ temel hastane işlevlerini içermektedir.
 ### Frontend
 - **HTML5** - Web sayfası yapısı 
 - **CSS3** - Stil ve tasarım
-- **JavaScript** - Kullanıcı etkileşimleri ve dinamik içerik
+- **JavaScript** - Kullanıcı etkileşimleri ve dinamik içerik 
 
 ### Backend 
 - **Node.js** - Sunucu tarafı işlemleri 
