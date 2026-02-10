@@ -6,7 +6,7 @@ Bu proje, doktor ve hasta yönetimi için geliştirilmiş kapsamlı bir hastane 
 temel hastane işlevlerini içermektedir.
 
 ## 🛠️ Kullanılan Teknolojiler 
-
+ 
 ### Frontend
 - **HTML5** - Web sayfası yapısı 
 - **CSS3** - Stil ve tasarım
